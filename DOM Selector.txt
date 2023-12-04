@@ -1,0 +1,27 @@
+getElementsByTagName
+getElementsByClassName
+getElementsById
+
+querySelector
+querySelectorAll
+
+getAttribute
+setAttribute
+
+##Changing Styles
+style.{property} //ok
+
+ClassName //best
+ClassList //best
+
+ClassList.add
+ClassList.remove
+ClassList.toggle
+
+##Bonus
+innerHTML //DANGEROUS
+
+PresentElement
+children
+
+##It is important to CACHE selectotrs in variables

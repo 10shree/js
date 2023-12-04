@@ -1,0 +1,16 @@
+/*selector{
+    property: value; 
+} */
+
+body {
+
+    background-image: url(backgroundimage.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    text-decoration: solid;
+    text-size-adjust: 20px;
+}

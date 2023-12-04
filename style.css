@@ -1,0 +1,37 @@
+/*selector{
+    property: value;
+}*/
+body {
+      background-image: url('backgroundimage.jpg');
+      background-size: 555px;
+}
+ h2 {
+    color: red;
+    text-align: center;
+    border: 4px dotted blanchedalmond;
+    cursor: pointer;
+}
+p {
+    color: rgb(87, 5, 84);
+    border: 3px solid peru;
+    text-decoration: underline;
+    text-transform: lowercase;
+    line-height: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: 'pioret one',cursive;
+}
+P {
+    font-size: 20px;
+}
+image {
+     float: left;
+}
+li {
+    list-style: circle;
+    display: block;
+}
+span {
+     font-size: 3em;
+}
